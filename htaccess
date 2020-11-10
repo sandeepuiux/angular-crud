@@ -8,4 +8,4 @@ RewriteCond %{REQUEST_FILENAME} -d
 
 RewriteRule ^.*$ - [NC,L]
 
-RewriteRule ^(.*) /index.html [NC,L]
+RewriteRule ^(.*) /sandeepuiux/angular-crud/ [NC,L]
